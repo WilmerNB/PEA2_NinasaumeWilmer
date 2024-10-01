@@ -4,7 +4,7 @@ title:  "Mision y Vision Nexo Digital"
 date:   2024-09-30 20:30:27 -0500
 categories: jekyll update
 ---
-VISION y MISION
+***VISION y MISION***
 
 
 **• Vision:** Convertirse en la empresa líder en desarrollo web a nivel nacional e internacional, reconocida por su innovación, personalización, y compromiso con la seguridad y el cumplimiento normativo.
